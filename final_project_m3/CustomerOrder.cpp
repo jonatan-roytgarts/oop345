@@ -1,6 +1,5 @@
 // CustomerOrder Milestone - CustomerOrder Interface
 // CustomerOrder.cpp
-// Young-Hwan Mun
 // v1.0 14/11/2015
 
 #include "CustomerOrder.h"
