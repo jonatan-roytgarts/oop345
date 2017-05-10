@@ -1,7 +1,6 @@
 #pragma once
 // Manager Milestone - ItemManager Interface
 // ItemManager.h
-// Chris Szalwinski
 // v1.0 - 16/11/2015
 #include <iostream>
 #include <vector>
