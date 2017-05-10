@@ -1,6 +1,5 @@
 // CustomerOrder Milestone - Item Interface
 // Item.cpp
-// Young-Hwan Mun
 // v1.0 14/11/2015
 
 #include "Item.h"
