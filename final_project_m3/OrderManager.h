@@ -1,7 +1,6 @@
 #pragma once
 // Manager Milestone - OrderManager Interface
 // OrderManager.h
-// Chris Szalwinski
 // v1.0 - 16/11/2015
 #include <iostream>
 #include <string>
