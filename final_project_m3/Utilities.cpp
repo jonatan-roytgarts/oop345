@@ -1,6 +1,5 @@
 // Milestone 1 - Utilities Interface
 // Utilities.cpp
-// Young-Hwan Mun
 // v1.0 - 14/11/2015
 
 #include "Utilities.h"
