@@ -1,6 +1,5 @@
 // Manager Milestone - ItemManager Interface
 // ItemManager.cpp
-// Young-Hwan Mun
 // v1.0 - 22/11/2015
 
 #include "Item.h"
