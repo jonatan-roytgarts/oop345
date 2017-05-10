@@ -1,7 +1,6 @@
 #pragma once
 // CustomerOrder Milestone - Item Interface
 // Item.h
-// Chris Szalwinski
 // v1.0 - 9/11/2015
 #include <iostream>
 #include <string>
